@@ -4,7 +4,7 @@ A responsive personal résumé website, built with semantic HTML and CSS and hos
 
 ## Website
 
-https://gilleskindt.github.io/gilles-kindt-resume/
+https://gilleskindt.com/
 
 ## Editing
 
