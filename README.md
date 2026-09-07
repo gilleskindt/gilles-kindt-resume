@@ -11,6 +11,7 @@ https://gilleskindt.github.io/gilles-kindt-resume/
 - `index.html`: résumé content, navigation, and contact details.
 - `styles.css`: layout, colors, responsive behavior, and print styles.
 - `favicon.svg`: browser icon.
+- `assets/logos/`: locally served organization logos; see `SOURCES.md` in that folder for provenance.
 
 No build step or JavaScript dependency is needed. Open `index.html` in a browser, or run `python3 -m http.server 8000` in this directory and visit http://localhost:8000.
 
